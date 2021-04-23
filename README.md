@@ -7,3 +7,5 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 ## Configuración de Alertas de Billing
 ## Configuración del CLI
 ## Infraestructura Global de AWS
+
+[Handlebars templates](http://handlebarsjs.com/)
